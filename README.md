@@ -4,8 +4,7 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript to
 
 Live Demo
 
-https://your-username.github.io/my-portfolio/
-
+https://github.com/Rajashekar18-source/my-portfolio
 Tech Stack
 
 HTML
